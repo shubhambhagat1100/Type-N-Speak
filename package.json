@@ -1,0 +1,12 @@
+{
+  "name": "type-n-speak",
+  "version": "1.0.0",
+  "description": "Text to speak and synthesis app using the web speech API",
+  "main": "index.js",
+  
+  "author": "Raj Kumar",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
